@@ -88,11 +88,14 @@ Besides computers and programming I have a huge interest in startups, particular
 ---
 
 <br>
- 
- <details>
- <summary>:zap: My GitHub Activity</summary>
- <!--START_SECTION:activity-->
- </details
+
+---
+
+ ### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+---
  
  <details>
  <summary>:zap: My GitHub Stats</summary>
