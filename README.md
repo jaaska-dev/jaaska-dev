@@ -12,7 +12,7 @@ Besides computers and programming I have a huge interest in startups, particular
 
 <br>
 
-- 🌱  I currently have a strong focus on learning React.js and back-end technologies - Node.js and MongoDB.
+- 🌱  I currently have a strong focus working with React.js and learning back-end technologies - Node.js and MongoDB.
 - 👯  I’m looking to collaborate with like-minded developers who want to constantly improve and learn, build new things.
 - 💬  Ask me about JavaScript and web development in general.
 - 🔭  2020 Goals: to learn Full Stack Web Development and start a web development freelancing business.
