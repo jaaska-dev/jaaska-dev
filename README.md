@@ -22,7 +22,8 @@ Besides computers and programming I have a huge interest in startups, particular
 
 <br>
 
-## My Toolbox 🛠️
+### My Toolbox 🛠️
+---
 
 <br>
 <table>
@@ -69,8 +70,8 @@ Besides computers and programming I have a huge interest in startups, particular
 
 <br>
 
-## Reach out to me
-
+### Reach out to me
+---
 <p align="left">
 <a href="https://twitter.com/jaaskakarl">
 <img src="https://img.shields.io/badge/@JAASKAKARL%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
