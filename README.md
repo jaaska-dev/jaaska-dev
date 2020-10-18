@@ -89,7 +89,6 @@ Besides computers and programming I have a huge interest in startups, particular
  <details>
  <summary>:zap: My GitHub Activity</summary>
  <!--START_SECTION:activity-->
- <!--END_SECTION:activity-->
  </details
  
  <details>
