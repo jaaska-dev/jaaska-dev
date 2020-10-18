@@ -89,8 +89,6 @@ Besides computers and programming I have a huge interest in startups, particular
 
 <br>
 
----
-
  ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
