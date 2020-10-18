@@ -1,9 +1,11 @@
-### Hello there! 👋
+<h1 align="center"> Welcome to my GitHub profile! 👋 </h1>
+
 ## I'm Karl, a web developer from Tallinn, Estonia 🇪🇪
 
 I'm extremely passionate about web development and computers in general - how they work and why they work the way they do.
 
 Besides computers and programming I have a huge interest in startups, particularly in tech startups.
+
 
 
 ## My Toolbox :computer:
