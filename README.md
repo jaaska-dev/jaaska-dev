@@ -87,9 +87,8 @@ Besides computers and programming I have a huge interest in startups, particular
 
 ---
 
-<br>
 
- ### :zap: Recent Activity
+ ### :zap: My Recent GithHub Activity
 
 <!--START_SECTION:activity-->
 
