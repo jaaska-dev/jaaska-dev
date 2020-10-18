@@ -1,6 +1,5 @@
 ### Hello there! 👋
 ## I'm Karl, a web developer from Tallinn, Estonia 🇪🇪
----
 
 I'm extremely passionate about web development and computers in general - how they work and why they work the way they do.
 
