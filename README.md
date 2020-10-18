@@ -65,18 +65,19 @@ Besides computers and programming I have a huge interest in startups, particular
 </table>
 
 
+
 <br>
 
-## Reach Out to Me
+### Reach out to me
 
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/jaaskakarl">
 <img src="https://img.shields.io/badge/@JAASKAKARL%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
- 
+ <br>
  <a href="https://www.linkedin.com/in/karl-marten-jaaska-0646251b3/">
  	<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
- </p>
+</p>
 <br>
 
 ---
