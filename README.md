@@ -34,8 +34,9 @@ Besides computers and programming I have a huge interest in startups, particular
 </td>
 
 <td align="center" width="20%">
-<span><b><center>HTML5 & CSS3</center></b></span> 
-<img height=65px src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png"> 
+<span><b><center></center></b></span> 
+<img height=65px src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"> 
+ <img height=65px src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif">
 </td>
 
 <td align="center" width="20%">
