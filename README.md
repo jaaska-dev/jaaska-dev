@@ -68,7 +68,7 @@ Besides computers and programming I have a huge interest in startups, particular
 
 <br>
 
-### Reach out to me
+## Reach out to me
 
 <p align="left">
 <a href="https://twitter.com/jaaskakarl">
