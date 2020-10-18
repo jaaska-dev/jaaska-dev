@@ -5,14 +5,18 @@
 
 
 ### About Me
-- I'm extremely passionate about web development and computers in general - how they work and why they work the way they do.
 
-- Besides computers and programming I have a huge interest in startups, particularly in tech startups.
+I'm extremely passionate about web development and computers in general - how they work and why they work the way they do.
 
-- 🌱 I’m currently learning a lot of things - front-end frameworks/libraries and back-end technologies, such as Node.js and MongoDB.
-- 👯 I’m looking to collaborate with like-minded developers who want to constantly improve and learn, build new things.
-- 💬 Ask me about JavaScript and web development in general.
-- ⚡ Fun fact: I like reading a lot and my favourite book so far is "Can't Hurt Me" by David Goggins.
+Besides computers and programming I have a huge interest in startups, particularly in tech startups.
+
+<br>
+
+- 🌱  I’m currently learning a lot of things - front-end frameworks/libraries and back-end technologies, such as Node.js and MongoDB.
+- 👯  I’m looking to collaborate with like-minded developers who want to constantly improve and learn, build new things.
+- 💬  Ask me about JavaScript and web development in general.
+- 🔭  2020 Goals: to learn Full Stack Web Development and start a web development freelancing business.
+- ⚡  Fun fact: I like reading a lot and my favourite book so far is "Can't Hurt Me" by David Goggins.
 
 ---
 
@@ -64,7 +68,7 @@
 
 <br>
 
-### Reach Out to Me
+## Reach Out to Me
 
 <br>
 
@@ -75,8 +79,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭  I’m currently working on ...
+- 🌱  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
