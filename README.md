@@ -1,8 +1,15 @@
 <h1 align="center"> Welcome to my GitHub profile! 👋 </h1>
 
 <h3 align="center"> I'm Karl, a web developer from Tallinn, Estonia 🇪🇪 </h3>
-<br>
 
+<br>
+<p align="center">
+<a href="https://twitter.com/jaaskakarl">
+<img src="https://img.shields.io/badge/@JAASKAKARL%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+ <a href="https://www.linkedin.com/in/karl-marten-jaaska-0646251b3/">
+ 	<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
 
 ### About Me
 
@@ -12,7 +19,7 @@ Besides computers and programming I have a huge interest in startups, particular
 
 <br>
 
-- 🌱  I currently have a strong focus working with React.js and learning back-end technologies - Node.js and MongoDB.
+- 🌱  I currently have a strong focus on working with React.js and learning back-end technologies - Node.js and MongoDB.
 - 👯  I’m looking to collaborate with like-minded developers who want to constantly improve and learn, build new things.
 - 💬  Ask me about JavaScript and web development in general.
 - 🔭  2020 Goals: to learn Full Stack Web Development and start a web development freelancing business.
@@ -73,17 +80,15 @@ Besides computers and programming I have a huge interest in startups, particular
 
 <br>
 
-### Reach out to me
+### Reach Out To Me
 ---
 <p align="left">
 <a href="https://twitter.com/jaaskakarl">
 <img src="https://img.shields.io/badge/@JAASKAKARL%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
- <br>
  <a href="https://www.linkedin.com/in/karl-marten-jaaska-0646251b3/">
  	<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
-<br>
 
 ---
 
