@@ -20,9 +20,8 @@ Besides computers and programming I have a huge interest in startups, particular
 
 ---
 
-<br>
-[![Spotify]("https://novatorem-five-alpha.vercel.app/api/spotify")]
-(https://open.spotify.com/user/b0211gql666tzxhfiz6r72ejc)
+
+[<img src="https://novatorem.jaaska-dev.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/b0211gql666tzxhfiz6r72ejc)
 
 ### My Toolbox 🛠️
 ---
