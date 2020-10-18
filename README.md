@@ -64,7 +64,6 @@ Besides computers and programming I have a huge interest in startups, particular
 </tbody>
 </table>
 
----
 
 <br>
 
@@ -72,7 +71,7 @@ Besides computers and programming I have a huge interest in startups, particular
 
 <p align="center">
 <a href="https://twitter.com/jaaskakarl">
-<img src="https://img.shields.io/badge/Karl Marten Jaaska%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/@JAASKAKARL%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
  
  <a href="https://www.linkedin.com/in/karl-marten-jaaska-0646251b3/">
@@ -80,6 +79,7 @@ Besides computers and programming I have a huge interest in startups, particular
  </p>
 <br>
 
+---
 
 ![karl GitHub statistic](https://github-readme-stats.vercel.app/api?username=jaaska-dev&show_icons=true)
 <!--
