@@ -5,9 +5,14 @@
 
 
 ### About Me
-I'm extremely passionate about web development and computers in general - how they work and why they work the way they do.
+- I'm extremely passionate about web development and computers in general - how they work and why they work the way they do.
 
-Besides computers and programming I have a huge interest in startups, particularly in tech startups.
+- Besides computers and programming I have a huge interest in startups, particularly in tech startups.
+
+- 🌱 I’m currently learning a lot of things - front-end frameworks/libraries and back-end technologies, such as Node.js and MongoDB.
+- 👯 I’m looking to collaborate with like-minded developers who want to constantly improve and learn, build new things.
+- 💬 Ask me about JavaScript and web development in general.
+- ⚡ Fun fact: I like reading a lot and my favourite book so far is "Can't Hurt Me" by David Goggins.
 
 ---
 
@@ -54,6 +59,15 @@ Besides computers and programming I have a huge interest in startups, particular
 
 </tbody>
 </table>
+
+---
+
+<br>
+
+### Reach Out to Me
+
+<br>
+
 
 ![karl GitHub statistic](https://github-readme-stats.vercel.app/api?username=jaaska-dev&show_icons=true)
 <!--
