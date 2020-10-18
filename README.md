@@ -84,7 +84,6 @@ Besides computers and programming I have a huge interest in startups, particular
 ---
 
 
-![karl GitHub statistic](https://github-readme-stats.vercel.app/api?username=jaaska-dev&show_icons=true)
 <br>
 <details>
  <summary>:zap: My GitHub Stats</summary>
