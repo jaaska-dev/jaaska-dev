@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello there! 👋
+## I'm Karl, a web developer from Tallinn, Estonia 🇪🇪
+---
 
+I'm extremely passionate about web development and computers in general - how they work and why they work the way they do.
+
+![karl GitHub statistic](https://github-readme-stats.vercel.app/api?username=jaaska-dev&show_icons=true)
 <!--
 **jaaska-dev/jaaska-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![karl GitHub statistic](https://github-readme-stats.vercel.app/api?username=jaaska-dev&show_icons=true)
+
