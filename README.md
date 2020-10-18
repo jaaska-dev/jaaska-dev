@@ -3,7 +3,7 @@
 <h3 align="center"> I'm Karl, a web developer from Tallinn, Estonia 🇪🇪 </h3>
 <br>
  
-### About Me
+### About Me 🙋🏻‍♂️
 
 I'm extremely passionate about web development and computers in general - how they work and why they work the way they do.
 
@@ -20,7 +20,7 @@ Besides computers and programming I have a huge interest in startups, particular
 ---
 <br>
 
-### Spotify Currently Playing 🎧
+### Spotify Currently Playing 🎧 
 
 [<img src="https://novatorem.jaaska-dev.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" />](https://open.spotify.com/user/b0211gql666tzxhfiz6r72ejc)
 
@@ -71,7 +71,7 @@ Besides computers and programming I have a huge interest in startups, particular
 
 ---
 
-### Contact Me
+### Contact Me 📬
 
 
 <p align="left">
