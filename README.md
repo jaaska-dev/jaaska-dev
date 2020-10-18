@@ -19,9 +19,11 @@ Besides computers and programming I have a huge interest in startups, particular
 - ⚡  Fun fact: I like reading a lot and my favourite book so far is "Can't Hurt Me" by David Goggins.
 
 ---
+<br>
 
+### Spotify Currently Playing 🎧
 
-[<img src="https://novatorem.jaaska-dev.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/b0211gql666tzxhfiz6r72ejc)
+[<img src="https://novatorem.jaaska-dev.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" />](https://open.spotify.com/user/b0211gql666tzxhfiz6r72ejc)
 
 ### My Toolbox 🛠️
 ---
