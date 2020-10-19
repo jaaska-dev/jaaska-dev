@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my GitHub profile!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center"> Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <h3 align="center"> I'm Karl, a web developer from Tallinn, Estonia 🇪🇪 </h3>
 <br>
