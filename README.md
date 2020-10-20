@@ -12,7 +12,7 @@ Besides computers and programming I have a huge interest in startups, particular
 <br>
 
 - 🌱  I currently have a strong focus on working with React.js and learning back-end technologies - Node.js and MongoDB.
-- 👯  I’m looking to collaborate with like-minded developers who want to constantly improve, learn, develop their skill and build new things.
+- 👯  I’m looking to collaborate with like-minded developers who want to constantly improve, learn, develop their skills and build new things.
 - 💬  Ask me about JavaScript and web development in general.
 - 🔭  2020 Goals: to learn Full Stack Web Development and start a web development freelancing business.
 - ⚡  Fun fact: I like reading a lot and my favourite book so far is "Can't Hurt Me" by David Goggins.
