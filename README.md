@@ -82,8 +82,6 @@ Besides computers and programming I have a huge interest in startups, particular
  	<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
- ### :zap: My Recent GithHub Activity
-
 ---
  
  <details>
