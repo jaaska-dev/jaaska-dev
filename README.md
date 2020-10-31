@@ -11,7 +11,7 @@ Besides computers and programming I have a huge interest in startups, particular
 
 <br>
 
-- 🌱  I currently have a strong focus on working with React.js and learning back-end technologies - Node.js and MongoDB.
+- 🌱  Talk less and do more.
 - 🔭  2020 Goals: to learn Full Stack Web Development.
 - ⚡  Fun fact: I like reading a lot and my favourite book so far is "Can't Hurt Me" by David Goggins.
 
