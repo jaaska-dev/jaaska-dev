@@ -5,7 +5,7 @@
  
 ### About Me 🙋🏻‍♂️
 
-I'm extremely passionate about web development and computers in general - how they work and why they work the way they do.
+I like web development and computers in general - interested in how they work and why they work the way they do.
 
 Besides computers and programming I have a huge interest in startups, particularly in tech startups 🚀.
 
