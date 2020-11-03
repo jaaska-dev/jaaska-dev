@@ -1,9 +1,9 @@
 <h1 align="center"> Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
-<h3 align="center"> I'm Karl, a developer from Tallinn, Estonia 🇪🇪 </h3>
+<h3 align="center">Based in Tallinn, Estonia 🇪🇪 </h3>
 <br>
  
-### About Me 🙋🏻‍♂️
+### About Me 
 
 I like web development and computers in general - interested in how they work and why they work the way they do.
 
@@ -22,7 +22,7 @@ Besides computers and programming I have a huge interest in startups, particular
 
 [<img src="https://novatorem.jaaska-dev.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" />](https://open.spotify.com/user/b0211gql666tzxhfiz6r72ejc)
 
-### My Toolbox 🛠️
+### What I Use
 ---
 <br>
 <table>
@@ -69,7 +69,7 @@ Besides computers and programming I have a huge interest in startups, particular
 
 ---
 
-### Contact Me 📬
+### Contact 
 
 
 <p align="left">
