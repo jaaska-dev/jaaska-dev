@@ -45,22 +45,6 @@ Besides computers and programming I have a huge interest in startups, particular
 </td>
 </tr>
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>Node.js</center></b></span> 
-<img height=65px src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Express.js</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Tailwind CSS</center></b></span> 
-<img height=65px src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg"> 
-</td>
-</tr>
 
 </tbody>
 </table>
