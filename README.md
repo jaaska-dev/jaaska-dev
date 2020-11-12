@@ -1,6 +1,5 @@
 <h1 align="center"> Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
-<h3 align="center">Based in Tallinn, Estonia 🇪🇪 </h3>
 <br>
  
 ### About Me 
@@ -12,7 +11,7 @@ Besides computers and programming I have a huge interest in startups, particular
 <br>
 
 - 🌱  Talk less and do more.
-- 🔭  2020 Goals: to learn Full Stack Web Development.
+- 🔭  Learning and building.
 - ⚡  Fun fact: I like reading a lot and my favourite book so far is "Can't Hurt Me" by David Goggins.
 
 ---
