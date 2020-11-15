@@ -4,15 +4,13 @@
  
 ### About Me 
 
-I like web development and computers in general - interested in how they work and why they work the way they do.
-
-Besides computers and programming I have a huge interest in startups, particularly in tech startups 🚀.
+Interested in computers - how they work and why they work the way they do.
 
 <br>
 
-- 🌱  Talk less and do more.
-- 🔭  Learning and building.
-- ⚡  Fun fact: I like reading a lot and my favourite book so far is "Can't Hurt Me" by David Goggins.
+- 🌱   Talk less and do more.
+- 🔭   Learning and building.
+- ⚡   Fun fact: I like reading a lot and my favourite book so far is "Can't Hurt Me" by David Goggins.
 
 ---
 <br>
