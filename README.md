@@ -4,7 +4,7 @@
  
 ### About Me 
 
-Interested in computers - how they work and why they work the way they do.
+Interested in all kinds of tech and computers - how they work and why they work the way they do.
 
 <br>
 
