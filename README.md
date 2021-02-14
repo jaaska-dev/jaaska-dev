@@ -4,7 +4,7 @@
  
 ### About Me 
 
-Tech and finance.
+Mostly into tech and finance.
 
 <br>
 
