@@ -4,13 +4,12 @@
  
 ### About Me 
 
-Interested in all kinds of tech and computers - how they work and why they work the way they do.
+Tech and finance.
 
 <br>
 
 - 🌱   Talk less and do more.
 - 🔭   Learning and building.
-- ⚡   Fun fact: I like reading a lot and my favourite book so far is "Can't Hurt Me" by David Goggins.
 
 ---
 <br>
