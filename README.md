@@ -53,8 +53,8 @@ Mostly into tech and finance.
 
 
 <p align="left">
-<a href="https://twitter.com/jaaaaskal">
-<img src="https://img.shields.io/badge/@JAASKAKARL%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<a href="https://twitter.com/jaaaaska">
+<img src="https://img.shields.io/badge/@JAAAASKA%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
  <a href="https://www.linkedin.com/in/karl-marten-jaaska-0646251b3/">
  	<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
