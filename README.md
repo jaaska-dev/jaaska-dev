@@ -4,7 +4,7 @@
  
 ### About Me 
 
-Mostly into tech and finance.
+Web development & quantitative finance.
 
 <br>
 
