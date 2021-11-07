@@ -6,11 +6,6 @@
 
 Web development & quantitative finance.
 
-<br>
-
-- 🌱   Talk less and do more.
-- 🔭   Learning and building.
-
 ---
 <br>
 
